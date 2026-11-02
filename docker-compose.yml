@@ -1,0 +1,21 @@
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: genshin-codex-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: codex
+      POSTGRES_PASSWORD: codex
+      POSTGRES_DB: genshin_codex
+    ports:
+      - "5433:5432"
+    volumes:
+      - genshin_codex_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U codex -d genshin_codex"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  genshin_codex_pgdata:

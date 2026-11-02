@@ -1,0 +1,20 @@
+# Backend Effect. Bun ejecuta TS directo (sin build step).
+FROM oven/bun:1-slim
+WORKDIR /app
+
+# Manifests para instalar deps del workspace (bun necesita ver los package.json de los miembros).
+COPY package.json bun.lock tsconfig.base.json ./
+COPY packages/domain/package.json ./packages/domain/package.json
+COPY apps/backend/package.json ./apps/backend/package.json
+COPY apps/frontend/package.json ./apps/frontend/package.json
+RUN bun install --frozen-lockfile
+
+# Código: dominio + backend (el frontend no se necesita en runtime).
+COPY packages/domain ./packages/domain
+COPY apps/backend ./apps/backend
+
+WORKDIR /app/apps/backend
+ENV NODE_ENV=production
+EXPOSE 4901
+# Auto-migra al arrancar (ver src/index.ts).
+CMD ["bun", "run", "src/index.ts"]

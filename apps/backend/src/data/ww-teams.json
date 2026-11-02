@@ -1,0 +1,5937 @@
+{
+  "brant": [
+    {
+      "name": "High Synergy Mono Fusion Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "brant",
+          "name": "Brant",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath"
+        },
+        {
+          "slug": "galbrena",
+          "name": "Galbrena"
+        },
+        {
+          "slug": "encore",
+          "name": "Encore"
+        }
+      ]
+    },
+    {
+      "name": "Brant Premium Dual DPS Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "brant",
+          "name": "Brant",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua"
+        }
+      ]
+    },
+    {
+      "name": "Brant Main DPS Team",
+      "members": [
+        {
+          "slug": "brant",
+          "name": "Brant",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua"
+        },
+        {
+          "slug": "roccia",
+          "name": "Roccia"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        }
+      ]
+    },
+    {
+      "name": "Brant Sub-DPS Team",
+      "members": [
+        {
+          "slug": "carlotta",
+          "name": "Carlotta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "brant",
+          "name": "Brant",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi"
+        },
+        {
+          "slug": "chixia",
+          "name": "Chixia"
+        },
+        {
+          "slug": "encore",
+          "name": "Encore"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        }
+      ]
+    },
+    {
+      "name": "Brant Tune Break Team",
+      "members": [
+        {
+          "slug": "brant",
+          "name": "Brant",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "aalto": [
+    {
+      "name": "Aalto Aero DMG Team",
+      "members": [
+        {
+          "slug": "jiyan",
+          "name": "Jiyan",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "aalto",
+          "name": "Aalto",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Aero Erosion Team",
+      "members": [
+        {
+          "slug": "cartethyia",
+          "name": "Cartethyia",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "aalto",
+          "name": "Aalto",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "augusta": [
+    {
+      "name": "Heavy Attack Premium Team",
+      "members": [
+        {
+          "slug": "augusta",
+          "name": "Augusta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lynae",
+          "name": "Lynae"
+        },
+        {
+          "slug": "rebecca",
+          "name": "Rebecca"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Augusta Dual DPS Team",
+      "members": [
+        {
+          "slug": "augusta",
+          "name": "Augusta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "cantarella",
+          "name": "Cantarella"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        }
+      ]
+    }
+  ],
+  "baizhi": [
+    {
+      "name": "Rover Main DPS Early Game Team",
+      "members": [
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Baizhi Flex Support Team",
+      "members": [
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "lingyang",
+          "name": "Lingyang"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi"
+        }
+      ]
+    }
+  ],
+  "camellya": [
+    {
+      "name": "Camellya Premium Havoc Team",
+      "members": [
+        {
+          "slug": "camellya",
+          "name": "Camellya",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "roccia",
+          "name": "Roccia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "sanhua",
+          "name": "Sanhua"
+        },
+        {
+          "slug": "danjin",
+          "name": "Danjin"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Camellya Tune Break Team",
+      "members": [
+        {
+          "slug": "camellya",
+          "name": "Camellya",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Camellya Free-To-Play Team",
+      "members": [
+        {
+          "slug": "camellya",
+          "name": "Camellya",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "cantarella": [
+    {
+      "name": "Aero-Havoc Echo Skill Team",
+      "members": [
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "roccia",
+          "name": "Roccia"
+        },
+        {
+          "slug": "sigrika",
+          "name": "Sigrika"
+        }
+      ]
+    },
+    {
+      "name": "Mono Havoc Camellya Team",
+      "members": [
+        {
+          "slug": "camellya",
+          "name": "Camellya",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "roccia",
+          "name": "Roccia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "rover-havoc",
+          "name": "Rover (Havoc)"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        }
+      ]
+    },
+    {
+      "name": "Cantarella Coordinated Sub-DPS Team",
+      "members": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "carlotta",
+          "name": "Carlotta"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        }
+      ]
+    }
+  ],
+  "aemeath": [
+    {
+      "name": "Aemeath Tune Rupture Team",
+      "members": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Aemeath Fusion Burst Team",
+      "members": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lupa",
+          "name": "Lupa"
+        },
+        {
+          "slug": "rover-electro",
+          "name": "Rover (Electro)"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Aemeath General Fusion Team",
+      "members": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "changli",
+          "name": "Changli"
+        },
+        {
+          "slug": "brant",
+          "name": "Brant"
+        }
+      ]
+    }
+  ],
+  "buling": [
+    {
+      "name": "Carlotta Glacio Team",
+      "members": [
+        {
+          "slug": "carlotta",
+          "name": "Carlotta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Jinhsi Res. Skill Burst Team",
+      "members": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "changli": [
+    {
+      "name": "High Synergy Mono Fusion Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "brant",
+          "name": "Brant",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath"
+        },
+        {
+          "slug": "encore",
+          "name": "Encore"
+        },
+        {
+          "slug": "galbrena",
+          "name": "Galbrena"
+        }
+      ]
+    },
+    {
+      "name": "Changli Tune Break Mono Fusion Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Changli Fusion Double DPS Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "brant",
+          "name": "Brant",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath"
+        },
+        {
+          "slug": "encore",
+          "name": "Encore"
+        },
+        {
+          "slug": "galbrena",
+          "name": "Galbrena"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Changli General DPS Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lupa",
+          "name": "Lupa"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "jianxin",
+          "name": "Jianxin"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang"
+        },
+        {
+          "slug": "taoqi",
+          "name": "Taoqi"
+        }
+      ]
+    },
+    {
+      "name": "Changli Tune Break Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "brant",
+          "name": "Brant",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Changli Free-To-Play (F2P) Double DPS Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "chixia",
+          "name": "Chixia",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang"
+        }
+      ]
+    },
+    {
+      "name": "Changli General Dual DPS Teams",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli"
+        },
+        {
+          "slug": "augusta",
+          "name": "Augusta"
+        },
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao"
+        },
+        {
+          "slug": "carlotta",
+          "name": "Carlotta"
+        },
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        }
+      ]
+    }
+  ],
+  "calcharo": [
+    {
+      "name": "Tune Break Liberation Team",
+      "members": [
+        {
+          "slug": "calcharo",
+          "name": "Calcharo",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Calcharo Electro Team",
+      "members": [
+        {
+          "slug": "calcharo",
+          "name": "Calcharo",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Calcharo Basic Attack Team",
+      "members": [
+        {
+          "slug": "calcharo",
+          "name": "Calcharo",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Calcharo Free-to-Play Team",
+      "members": [
+        {
+          "slug": "calcharo",
+          "name": "Calcharo",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "carlotta": [
+    {
+      "name": "Glacio Carry Premium Team",
+      "members": [
+        {
+          "slug": "carlotta",
+          "name": "Carlotta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "taoqi",
+          "name": "Taoqi"
+        },
+        {
+          "slug": "lumi",
+          "name": "Lumi"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Carlotta Tune Break Team",
+      "members": [
+        {
+          "slug": "carlotta",
+          "name": "Carlotta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "chisa": [
+    {
+      "name": "Chisa Havoc Bane Team",
+      "members": [
+        {
+          "slug": "yangyang-xuanling",
+          "name": "Yangyang Xuanling",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "suisui",
+          "name": "Suisui",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno"
+        }
+      ]
+    },
+    {
+      "name": "Chisa Glacio Chafe Team",
+      "members": [
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lucilla",
+          "name": "Lucilla",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lynae",
+          "name": "Lynae"
+        }
+      ]
+    },
+    {
+      "name": "Chisa Fusion Burst Team",
+      "members": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Chisa Aero Erosion Team",
+      "members": [
+        {
+          "slug": "cartethyia",
+          "name": "Cartethyia",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Chisa Spectro Frazzle Team",
+      "members": [
+        {
+          "slug": "phoebe",
+          "name": "Phoebe"
+        },
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "zani",
+          "name": "Zani"
+        }
+      ]
+    },
+    {
+      "name": "Chisa Sub-DPS Team",
+      "members": [
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "cartethyia": [
+    {
+      "name": "Cartethyia Premium Erosion Team",
+      "members": [
+        {
+          "slug": "cartethyia",
+          "name": "Cartethyia",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    },
+    {
+      "name": "Cartethyia Non-Premium Team",
+      "members": [
+        {
+          "slug": "cartethyia",
+          "name": "Cartethyia",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "aalto",
+          "name": "Aalto"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    }
+  ],
+  "danjin": [
+    {
+      "name": "Danjin Dual-DPS Team",
+      "members": [
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "danjin",
+          "name": "Danjin"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella"
+        }
+      ]
+    },
+    {
+      "name": "Danjin Heavy Attack Boosting Team",
+      "members": [
+        {
+          "slug": "danjin",
+          "name": "Danjin",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "roccia",
+          "name": "Roccia"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "ciaccona": [
+    {
+      "name": "Premium Aero Erosion Team",
+      "members": [
+        {
+          "slug": "cartethyia",
+          "name": "Cartethyia",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    },
+    {
+      "name": "Aero Tune Strain Team",
+      "members": [
+        {
+          "slug": "qingxiao",
+          "name": "Qingxiao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lynae",
+          "name": "Lynae"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        }
+      ]
+    },
+    {
+      "name": "Aero Echo Skill Team",
+      "members": [
+        {
+          "slug": "sigrika",
+          "name": "Sigrika",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        }
+      ]
+    },
+    {
+      "name": "Jiyan Aero DPS Team",
+      "members": [
+        {
+          "slug": "jiyan",
+          "name": "Jiyan",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    },
+    {
+      "name": "F2P Full Aero Team",
+      "members": [
+        {
+          "slug": "aalto",
+          "name": "Aalto",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Spectro Frazzle Team",
+      "members": [
+        {
+          "slug": "zani",
+          "name": "Zani",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "phoebe",
+          "name": "Phoebe"
+        },
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa"
+        }
+      ]
+    }
+  ],
+  "denia": [
+    {
+      "name": "Fusion Burst Sub-DPS Build",
+      "members": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lupa",
+          "name": "Lupa"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Denia Aero Tune Strain Team",
+      "members": [
+        {
+          "slug": "qingxiao",
+          "name": "Qingxiao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Denia Spectro Tune Strain Team",
+      "members": [
+        {
+          "slug": "luuk-herssen",
+          "name": "Luuk Herssen",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Denia Mono Fusion Teams",
+      "members": [
+        {
+          "slug": "galbrena",
+          "name": "Galbrena"
+        },
+        {
+          "slug": "brant",
+          "name": "Brant"
+        },
+        {
+          "slug": "changli",
+          "name": "Changli"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "encore",
+          "name": "Encore"
+        },
+        {
+          "slug": "chixia",
+          "name": "Chixia"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        }
+      ]
+    },
+    {
+      "name": "Denia Alternative Teams",
+      "members": [
+        {
+          "slug": "denia",
+          "name": "Denia"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "youhu",
+          "name": "Youhu"
+        }
+      ]
+    }
+  ],
+  "encore": [
+    {
+      "name": "Encore Mono Fusion Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli"
+        },
+        {
+          "slug": "encore",
+          "name": "Encore"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "brant",
+          "name": "Brant"
+        }
+      ]
+    },
+    {
+      "name": "Encore-Changli Double DPS Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli"
+        },
+        {
+          "slug": "encore",
+          "name": "Encore"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Encore-Brant Double DPS Team",
+      "members": [
+        {
+          "slug": "encore",
+          "name": "Encore"
+        },
+        {
+          "slug": "brant",
+          "name": "Brant"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Encore DPS-Buffed Team",
+      "members": [
+        {
+          "slug": "encore",
+          "name": "Encore",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "yangyang",
+          "name": "Yangyang"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin"
+        }
+      ]
+    },
+    {
+      "name": "Encore Time Stop Team",
+      "members": [
+        {
+          "slug": "encore",
+          "name": "Encore",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "hiyuki": [
+    {
+      "name": "Hiyuki Glacio Chafe Team",
+      "members": [
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lucilla",
+          "name": "Lucilla",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "suisui",
+          "name": "Suisui",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lynae",
+          "name": "Lynae"
+        },
+        {
+          "slug": "rover-electro",
+          "name": "Rover (Electro)"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    },
+    {
+      "name": "Hiyuki Tune Break Team",
+      "members": [
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Hiyuki Hypercarry Team",
+      "members": [
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "suisui",
+          "name": "Suisui",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Alternative Hiyuki Teams",
+      "members": [
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi"
+        },
+        {
+          "slug": "changli",
+          "name": "Changli"
+        },
+        {
+          "slug": "jianxin",
+          "name": "Jianxin"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        }
+      ]
+    }
+  ],
+  "galbrena": [
+    {
+      "name": "Galbrena Echo Skill Team",
+      "members": [
+        {
+          "slug": "galbrena",
+          "name": "Galbrena",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lucilla",
+          "name": "Lucilla"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa"
+        }
+      ]
+    },
+    {
+      "name": "Galbrena Fusion Team",
+      "members": [
+        {
+          "slug": "galbrena",
+          "name": "Galbrena",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "brant",
+          "name": "Brant",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "changli",
+          "name": "Changli"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    },
+    {
+      "name": "Galbrena Heavy Attack Team",
+      "members": [
+        {
+          "slug": "galbrena",
+          "name": "Galbrena",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "rebecca",
+          "name": "Rebecca"
+        },
+        {
+          "slug": "phrolova",
+          "name": "Phrolova"
+        }
+      ]
+    }
+  ],
+  "jianxin": [
+    {
+      "name": "Jianxin Full Aero Team",
+      "members": [
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "jianxin",
+          "name": "Jianxin",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao"
+        },
+        {
+          "slug": "calcharo",
+          "name": "Calcharo"
+        },
+        {
+          "slug": "rover-havoc",
+          "name": "Rover (Havoc)"
+        },
+        {
+          "slug": "changli",
+          "name": "Changli"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Jianxin General Team",
+      "members": [
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "jianxin",
+          "name": "Jianxin",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "calcharo",
+          "name": "Calcharo"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "jinhsi": [
+    {
+      "name": "Jinhsi Coordinated Attack Team",
+      "members": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "yinlin",
+          "name": "Yinlin"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "taoqi",
+          "name": "Taoqi"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Jinhsi Free-To-Play Team",
+      "members": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yuanwu",
+          "name": "Yuanwu",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "yangyang",
+          "name": "Yangyang"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua"
+        }
+      ]
+    }
+  ],
+  "lingyang": [
+    {
+      "name": "Lingyang Premium Glacio Team",
+      "members": [
+        {
+          "slug": "lingyang",
+          "name": "Lingyang",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "sanhua",
+          "name": "Sanhua"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Lingyang F2P Friendly Team",
+      "members": [
+        {
+          "slug": "lingyang",
+          "name": "Lingyang",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "chixia": [
+    {
+      "name": "Chixia Mono Fusion Team",
+      "members": [
+        {
+          "slug": "chixia",
+          "name": "Chixia"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        }
+      ]
+    },
+    {
+      "name": "Chixia Premium Double DPS Team",
+      "members": [
+        {
+          "slug": "chixia",
+          "name": "Chixia"
+        },
+        {
+          "slug": "changli",
+          "name": "Changli"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "brant",
+          "name": "Brant"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "F2P Chixia Main DPS Team",
+      "members": [
+        {
+          "slug": "chixia",
+          "name": "Chixia",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "iuno": [
+    {
+      "name": "Augusta Heavy Electro Team",
+      "members": [
+        {
+          "slug": "augusta",
+          "name": "Augusta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "yangyang-xuanling",
+          "name": "Yangyang Xuanling"
+        },
+        {
+          "slug": "jiyan",
+          "name": "Jiyan"
+        },
+        {
+          "slug": "lucy",
+          "name": "Lucy"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Iuno Tune Break Main DPS Team",
+      "members": [
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona"
+        }
+      ]
+    },
+    {
+      "name": "Iuno Aero Main DPS Team",
+      "members": [
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "jianxin",
+          "name": "Jianxin"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "lucy": [
+    {
+      "name": "Hack - Shifting Edgerunners Team",
+      "members": [
+        {
+          "slug": "lucy",
+          "name": "Lucy",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rebecca",
+          "name": "Rebecca",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Lucy Heavy Attack Team",
+      "members": [
+        {
+          "slug": "lucy",
+          "name": "Lucy",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        }
+      ]
+    }
+  ],
+  "lupa": [
+    {
+      "name": "High Synergy Mono-Fusion DPS Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "brant",
+          "name": "Brant",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        }
+      ]
+    },
+    {
+      "name": "Galbrena Fusion Echo Skill Team",
+      "members": [
+        {
+          "slug": "galbrena",
+          "name": "Galbrena",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "brant",
+          "name": "Brant"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "changli",
+          "name": "Changli"
+        },
+        {
+          "slug": "phrolova",
+          "name": "Phrolova"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno"
+        }
+      ]
+    },
+    {
+      "name": "Lupa Fusion Burst Team",
+      "members": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        }
+      ]
+    },
+    {
+      "name": "Semi-Premium Mono-Fusion Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli"
+        },
+        {
+          "slug": "encore",
+          "name": "Encore"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "brant",
+          "name": "Brant"
+        }
+      ]
+    },
+    {
+      "name": "Dual Fusion Team",
+      "members": [
+        {
+          "slug": "brant",
+          "name": "Brant",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "encore",
+          "name": "Encore"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "General Mono Fusion Off-Tune Team",
+      "members": [
+        {
+          "slug": "lupa",
+          "name": "Lupa"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        }
+      ]
+    }
+  ],
+  "luuk-herssen": [
+    {
+      "name": "Tune Strain Mode",
+      "members": [
+        {
+          "slug": "luuk-herssen",
+          "name": "Luuk Herssen",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lynae",
+          "name": "Lynae"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Hypercarry Team",
+      "members": [
+        {
+          "slug": "luuk-herssen",
+          "name": "Luuk Herssen",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "roccia",
+          "name": "Roccia"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    }
+  ],
+  "lumi": [
+    {
+      "name": "Resonance Skill Sub-DPS Team",
+      "members": [
+        {
+          "slug": "changli",
+          "name": "Changli",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lumi",
+          "name": "Lumi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "carlotta",
+          "name": "Carlotta"
+        },
+        {
+          "slug": "phrolova",
+          "name": "Phrolova"
+        }
+      ]
+    }
+  ],
+  "jiyan": [
+    {
+      "name": "Jiyan Heavy Attack Boost Team",
+      "members": [
+        {
+          "slug": "jiyan",
+          "name": "Jiyan",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "rebecca",
+          "name": "Rebecca"
+        },
+        {
+          "slug": "aalto",
+          "name": "Aalto"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)"
+        }
+      ]
+    },
+    {
+      "name": "Jiyan Aero Erosion Team",
+      "members": [
+        {
+          "slug": "jiyan",
+          "name": "Jiyan",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    },
+    {
+      "name": "Jiyan Free-to-Play Team",
+      "members": [
+        {
+          "slug": "jiyan",
+          "name": "Jiyan",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "mortefi": [
+    {
+      "name": "Havoc Heavy Attack Team",
+      "members": [
+        {
+          "slug": "yangyang-xuanling",
+          "name": "Yangyang Xuanling",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "suisui",
+          "name": "Suisui"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Electro Heavy Attack Team",
+      "members": [
+        {
+          "slug": "augusta",
+          "name": "Augusta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lucy",
+          "name": "Lucy"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Aero Heavy Attack Team",
+      "members": [
+        {
+          "slug": "jiyan",
+          "name": "Jiyan",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lucy",
+          "name": "Lucy"
+        },
+        {
+          "slug": "roccia",
+          "name": "Roccia"
+        },
+        {
+          "slug": "danjin",
+          "name": "Danjin"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Mono Fusion Heavy Attack Team",
+      "members": [
+        {
+          "slug": "galbrena",
+          "name": "Galbrena",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "lupa",
+          "name": "Lupa",
+          "role": "Sub-DPS"
+        }
+      ]
+    },
+    {
+      "name": "Coordinated Attack Team",
+      "members": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "lucilla": [
+    {
+      "name": "Lucilla Premier Glacio Chafe Team",
+      "members": [
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lucilla",
+          "name": "Lucilla",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "suisui",
+          "name": "Suisui",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "chisa",
+          "name": "Chisa"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Lucilla Echo Skill DMG Team",
+      "members": [
+        {
+          "slug": "sigrika",
+          "name": "Sigrika",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lucilla",
+          "name": "Lucilla",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "galbrena",
+          "name": "Galbrena"
+        },
+        {
+          "slug": "phrolova",
+          "name": "Phrolova"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan"
+        }
+      ]
+    }
+  ],
+  "lynae": [
+    {
+      "name": "Lynae Tune Rupture Team",
+      "members": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno"
+        },
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao"
+        },
+        {
+          "slug": "calcharo",
+          "name": "Calcharo"
+        }
+      ]
+    },
+    {
+      "name": "Lynae Tune Strain Team",
+      "members": [
+        {
+          "slug": "qingxiao",
+          "name": "Qingxiao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "luuk-herssen",
+          "name": "Luuk Herssen"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    },
+    {
+      "name": "Lynae Glacio Chafe Team",
+      "members": [
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Lynae Sun and Moon Team",
+      "members": [
+        {
+          "slug": "augusta",
+          "name": "Augusta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        }
+      ]
+    },
+    {
+      "name": "Lynae Main DPS Team",
+      "members": [
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    }
+  ],
+  "phoebe": [
+    {
+      "name": "Confession Premium Sub-DPS Team",
+      "members": [
+        {
+          "slug": "zani",
+          "name": "Zani",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "phoebe",
+          "name": "Phoebe",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa"
+        }
+      ]
+    },
+    {
+      "name": "Absolution DPS Frazzle Team",
+      "members": [
+        {
+          "slug": "phoebe",
+          "name": "Phoebe",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa"
+        }
+      ]
+    }
+  ],
+  "mornye": [
+    {
+      "name": "Mornye Tune Rupture Team",
+      "members": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "iuno",
+          "name": "Iuno"
+        },
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao"
+        },
+        {
+          "slug": "calcharo",
+          "name": "Calcharo"
+        }
+      ]
+    },
+    {
+      "name": "Mornye Tune Strain Team",
+      "members": [
+        {
+          "slug": "qingxiao",
+          "name": "Qingxiao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "luuk-herssen",
+          "name": "Luuk Herssen"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua"
+        }
+      ]
+    },
+    {
+      "name": "Cyberpunk Hack - Shifting Team",
+      "members": [
+        {
+          "slug": "lucy",
+          "name": "Lucy",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rebecca",
+          "name": "Rebecca",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Tune Break Support Team",
+      "members": [
+        {
+          "slug": "lynae",
+          "name": "Lynae"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        }
+      ]
+    }
+  ],
+  "rebecca": [
+    {
+      "name": "Cyberpunk Edgerunners Team",
+      "members": [
+        {
+          "slug": "lucy",
+          "name": "Lucy",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rebecca",
+          "name": "Rebecca",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Havoc Bane Heavy Attack Team",
+      "members": [
+        {
+          "slug": "yangyang-xuanling",
+          "name": "Yangyang Xuanling",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rebecca",
+          "name": "Rebecca",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "suisui",
+          "name": "Suisui"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "General Heavy Attack Team",
+      "members": [
+        {
+          "slug": "augusta",
+          "name": "Augusta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rebecca",
+          "name": "Rebecca",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "jiyan",
+          "name": "Jiyan"
+        },
+        {
+          "slug": "galbrena",
+          "name": "Galbrena"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan"
+        }
+      ]
+    }
+  ],
+  "qiuyuan": [
+    {
+      "name": "Qiuyuan Aero Echo Skill Team",
+      "members": [
+        {
+          "slug": "sigrika",
+          "name": "Sigrika",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno"
+        }
+      ]
+    },
+    {
+      "name": "Qiuyuan Fusion Echo Skill Team",
+      "members": [
+        {
+          "slug": "galbrena",
+          "name": "Galbrena",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lupa",
+          "name": "Lupa"
+        },
+        {
+          "slug": "phrolova",
+          "name": "Phrolova"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno"
+        }
+      ]
+    },
+    {
+      "name": "Qiuyuan Havoc Echo Skill Team",
+      "members": [
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        }
+      ]
+    },
+    {
+      "name": "General Purpose Crit DMG Team",
+      "members": [
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Qiuyuan Main DPS Team",
+      "members": [
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona"
+        }
+      ]
+    }
+  ],
+  "qingxiao": [
+    {
+      "name": "Qingxiao Tune Strain Team",
+      "members": [
+        {
+          "slug": "qingxiao",
+          "name": "Qingxiao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lynae",
+          "name": "Lynae"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    },
+    {
+      "name": "Qingxiao Hypercarry Team",
+      "members": [
+        {
+          "slug": "qingxiao",
+          "name": "Qingxiao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "rover-aero": [
+    {
+      "name": "Aero Erosion Team",
+      "members": [
+        {
+          "slug": "cartethyia",
+          "name": "Cartethyia",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "sanhua",
+          "name": "Sanhua"
+        },
+        {
+          "slug": "aalto",
+          "name": "Aalto"
+        }
+      ]
+    },
+    {
+      "name": "Jiyan Aero DPS Team",
+      "members": [
+        {
+          "slug": "jiyan",
+          "name": "Jiyan",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "phoebe",
+          "name": "Phoebe"
+        }
+      ]
+    }
+  ],
+  "roccia": [
+    {
+      "name": "Roccia Premium Havoc Team",
+      "members": [
+        {
+          "slug": "camellya",
+          "name": "Camellya",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "roccia",
+          "name": "Roccia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "danjin",
+          "name": "Danjin"
+        },
+        {
+          "slug": "rover-havoc",
+          "name": "Rover (Havoc)"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        }
+      ]
+    },
+    {
+      "name": "Mono Havoc Echo Skill Team",
+      "members": [
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "roccia",
+          "name": "Roccia",
+          "role": "Sub-DPS"
+        }
+      ]
+    },
+    {
+      "name": "Roccia Free-to-Play Havoc Team",
+      "members": [
+        {
+          "slug": "rover-havoc",
+          "name": "Rover (Havoc)",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "roccia",
+          "name": "Roccia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "danjin",
+          "name": "Danjin"
+        }
+      ]
+    }
+  ],
+  "rover-electro": [
+    {
+      "name": "Negative Status Team",
+      "members": [
+        {
+          "slug": "yangyang-xuanling",
+          "name": "Yangyang Xuanling",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rover-electro",
+          "name": "Rover (Electro)",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki"
+        },
+        {
+          "slug": "aemeath",
+          "name": "Aemeath"
+        }
+      ]
+    }
+  ],
+  "phrolova": [
+    {
+      "name": "Phrolova Echo Skill DMG Team",
+      "members": [
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lucilla",
+          "name": "Lucilla"
+        }
+      ]
+    },
+    {
+      "name": "Echo Skill Havoc Team",
+      "members": [
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "roccia",
+          "name": "Roccia",
+          "role": "Sub-DPS"
+        }
+      ]
+    },
+    {
+      "name": "Phrolova Hypercarry Team",
+      "members": [
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "danjin",
+          "name": "Danjin"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Double Echo Skill DPS Team",
+      "members": [
+        {
+          "slug": "sigrika",
+          "name": "Sigrika",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "cantarella",
+          "name": "Cantarella"
+        },
+        {
+          "slug": "galbrena",
+          "name": "Galbrena"
+        }
+      ]
+    },
+    {
+      "name": "Phrolova Double DPS Team",
+      "members": [
+        {
+          "slug": "augusta",
+          "name": "Augusta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "galbrena",
+          "name": "Galbrena"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella"
+        }
+      ]
+    },
+    {
+      "name": "Phrolova F2P Team",
+      "members": [
+        {
+          "slug": "phrolova",
+          "name": "Phrolova"
+        },
+        {
+          "slug": "danjin",
+          "name": "Danjin"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "rover-havoc",
+          "name": "Rover (Havoc)"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Alternative Phrolova Teams",
+      "members": [
+        {
+          "slug": "phrolova",
+          "name": "Phrolova"
+        },
+        {
+          "slug": "danjin",
+          "name": "Danjin"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lumi",
+          "name": "Lumi"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        }
+      ]
+    }
+  ],
+  "rover-spectro": [
+    {
+      "name": "Spectro Frazzle Team",
+      "members": [
+        {
+          "slug": "zani",
+          "name": "Zani",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "phoebe",
+          "name": "Phoebe"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Rover Main DPS Early Game Team",
+      "members": [
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Rover Flexible Sub-DPS Team",
+      "members": [
+        {
+          "slug": "jiyan",
+          "name": "Jiyan",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "encore",
+          "name": "Encore"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        }
+      ]
+    }
+  ],
+  "shorekeeper": [
+    {
+      "name": "Echo Skill Hypercarry Team",
+      "members": [
+        {
+          "slug": "sigrika",
+          "name": "Sigrika",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Sun and Moon Team",
+      "members": [
+        {
+          "slug": "augusta",
+          "name": "Augusta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Shorekeeper Coordinated Attack Team",
+      "members": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "rover-havoc",
+          "name": "Rover (Havoc)"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        }
+      ]
+    },
+    {
+      "name": "Shorekeeper F2P Friendly Team",
+      "members": [
+        {
+          "slug": "rover-havoc",
+          "name": "Rover (Havoc)",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "sanhua": [
+    {
+      "name": "Basic Attack Amplified Team",
+      "members": [
+        {
+          "slug": "camellya",
+          "name": "Camellya",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "encore",
+          "name": "Encore"
+        },
+        {
+          "slug": "rover-havoc",
+          "name": "Rover (Havoc)"
+        },
+        {
+          "slug": "calcharo",
+          "name": "Calcharo"
+        },
+        {
+          "slug": "lingyang",
+          "name": "Lingyang"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "cartethyia",
+          "name": "Cartethyia"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Tune Break Hypercarry Team",
+      "members": [
+        {
+          "slug": "luuk-herssen",
+          "name": "Luuk Herssen",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        }
+      ]
+    },
+    {
+      "name": "Sanhua Double DPS Team",
+      "members": [
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "taoqi": [
+    {
+      "name": "Taoqi Resonance Skill Team",
+      "members": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "taoqi",
+          "name": "Taoqi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "danjin",
+          "name": "Danjin"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "suisui": [
+    {
+      "name": "Premium Havoc Bane Team",
+      "members": [
+        {
+          "slug": "yangyang-xuanling",
+          "name": "Yangyang Xuanling",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "suisui",
+          "name": "Suisui",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "rover-electro",
+          "name": "Rover (Electro)"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno"
+        }
+      ]
+    },
+    {
+      "name": "Suisui Glacio Chafe Team",
+      "members": [
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lucilla",
+          "name": "Lucilla",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "suisui",
+          "name": "Suisui",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lynae",
+          "name": "Lynae"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa"
+        },
+        {
+          "slug": "rover-electro",
+          "name": "Rover (Electro)"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi"
+        }
+      ]
+    },
+    {
+      "name": "S1 Negative Status Teams",
+      "members": [
+        {
+          "slug": "aemeath",
+          "name": "Aemeath"
+        },
+        {
+          "slug": "denia",
+          "name": "Denia"
+        },
+        {
+          "slug": "suisui",
+          "name": "Suisui"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "zani",
+          "name": "Zani"
+        },
+        {
+          "slug": "phoebe",
+          "name": "Phoebe"
+        },
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)"
+        }
+      ]
+    },
+    {
+      "name": "Alternative Erosion Team",
+      "members": [
+        {
+          "slug": "cartethyia",
+          "name": "Cartethyia"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona"
+        },
+        {
+          "slug": "suisui",
+          "name": "Suisui"
+        }
+      ]
+    }
+  ],
+  "rover-havoc": [
+    {
+      "name": "Rover (Havoc) Premium Team",
+      "members": [
+        {
+          "slug": "rover-havoc",
+          "name": "Rover (Havoc)",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "roccia",
+          "name": "Roccia",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "sanhua",
+          "name": "Sanhua"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Rover (Havoc) Free-to-Play Team",
+      "members": [
+        {
+          "slug": "rover-havoc",
+          "name": "Rover (Havoc)",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "sigrika": [
+    {
+      "name": "Echo Skill Hypercarry Team",
+      "members": [
+        {
+          "slug": "sigrika",
+          "name": "Sigrika",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lucilla",
+          "name": "Lucilla"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella"
+        }
+      ]
+    },
+    {
+      "name": "Double Echo Skill DPS Team",
+      "members": [
+        {
+          "slug": "sigrika",
+          "name": "Sigrika",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "qiuyuan",
+          "name": "Qiuyuan",
+          "role": "Sub-DPS"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "lucilla",
+          "name": "Lucilla"
+        },
+        {
+          "slug": "cantarella",
+          "name": "Cantarella"
+        }
+      ]
+    },
+    {
+      "name": "General Aero Team",
+      "members": [
+        {
+          "slug": "sigrika",
+          "name": "Sigrika",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "ciaccona",
+          "name": "Ciaccona",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "rover-aero",
+          "name": "Rover (Aero)"
+        }
+      ]
+    },
+    {
+      "name": "Sigrika F2P Team",
+      "members": [
+        {
+          "slug": "sigrika",
+          "name": "Sigrika",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "aalto",
+          "name": "Aalto",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        }
+      ]
+    }
+  ],
+  "xiangli-yao": [
+    {
+      "name": "Tune Break Liberation Team",
+      "members": [
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Xiangli Yao Electro Team",
+      "members": [
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Resonance Liberation DMG Team",
+      "members": [
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "jianxin",
+          "name": "Jianxin",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "changli",
+          "name": "Changli"
+        }
+      ]
+    },
+    {
+      "name": "Free To Play Team",
+      "members": [
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yuanwu",
+          "name": "Yuanwu",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "verina": [
+    {
+      "name": "Verina Free-to-Play Team",
+      "members": [
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Verina Premium Team",
+      "members": [
+        {
+          "slug": "jiyan",
+          "name": "Jiyan",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "calcharo",
+          "name": "Calcharo"
+        },
+        {
+          "slug": "danjin",
+          "name": "Danjin"
+        },
+        {
+          "slug": "aalto",
+          "name": "Aalto"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang"
+        }
+      ]
+    },
+    {
+      "name": "Verina Coordinated Attack Team",
+      "members": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "yinlin",
+          "name": "Yinlin"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "yuanwu",
+          "name": "Yuanwu"
+        }
+      ]
+    }
+  ],
+  "yangyang": [
+    {
+      "name": "Yangyang Early Game Team",
+      "members": [
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yangyang",
+          "name": "Yangyang",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Alternative Yangyang Teams",
+      "members": [
+        {
+          "slug": "jiyan",
+          "name": "Jiyan"
+        },
+        {
+          "slug": "carlotta",
+          "name": "Carlotta"
+        },
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "yangyang",
+          "name": "Yangyang"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        }
+      ]
+    }
+  ],
+  "yangyang-xuanling": [
+    {
+      "name": "Premium Havoc Bane Team",
+      "members": [
+        {
+          "slug": "yangyang-xuanling",
+          "name": "Yangyang Xuanling",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "suisui",
+          "name": "Suisui",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "cantarella",
+          "name": "Cantarella"
+        },
+        {
+          "slug": "roccia",
+          "name": "Roccia"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Heavy Attack Hypercarry Team",
+      "members": [
+        {
+          "slug": "yangyang-xuanling",
+          "name": "Yangyang Xuanling",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rebecca",
+          "name": "Rebecca",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        },
+        {
+          "slug": "iuno",
+          "name": "Iuno"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Havoc Dual DPS Team",
+      "members": [
+        {
+          "slug": "yangyang-xuanling",
+          "name": "Yangyang Xuanling",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "danjin",
+          "name": "Danjin"
+        },
+        {
+          "slug": "rebecca",
+          "name": "Rebecca"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        }
+      ]
+    },
+    {
+      "name": "Yangyang Tune Break Team",
+      "members": [
+        {
+          "slug": "yangyang-xuanling",
+          "name": "Yangyang Xuanling",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "lynae",
+          "name": "Lynae",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye",
+          "role": "Support"
+        }
+      ]
+    },
+    {
+      "name": "Yangyang F2P Team",
+      "members": [
+        {
+          "slug": "yangyang-xuanling",
+          "name": "Yangyang Xuanling",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rover-electro",
+          "name": "Rover (Electro)",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "yuanwu": [
+    {
+      "name": "Yuanwu Free-to-Play Team",
+      "members": [
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yuanwu",
+          "name": "Yuanwu",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "yangyang",
+          "name": "Yangyang"
+        }
+      ]
+    },
+    {
+      "name": "Yuanwu Premium Electro Team",
+      "members": [
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yuanwu",
+          "name": "Yuanwu",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "calcharo",
+          "name": "Calcharo"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Yuanwu Coordinated Attack Team",
+      "members": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yuanwu",
+          "name": "Yuanwu",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "yinlin": [
+    {
+      "name": "Xiangli Yao Electro Premium Team",
+      "members": [
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "calcharo",
+          "name": "Calcharo"
+        },
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki"
+        },
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "youhu",
+          "name": "Youhu"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Iuno Resonance Liberation DMG Team",
+      "members": [
+        {
+          "slug": "iuno",
+          "name": "Iuno",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "youhu",
+          "name": "Youhu"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Augusta Electro DPS Team",
+      "members": [
+        {
+          "slug": "augusta",
+          "name": "Augusta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "youhu",
+          "name": "Youhu"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Yinlin Free-to-Play Team",
+      "members": [
+        {
+          "slug": "rover-havoc",
+          "name": "Rover (Havoc)",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "zhezhi": [
+    {
+      "name": "Carlotta Glacio DPS Team",
+      "members": [
+        {
+          "slug": "carlotta",
+          "name": "Carlotta",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "hiyuki",
+          "name": "Hiyuki"
+        },
+        {
+          "slug": "lingyang",
+          "name": "Lingyang"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        }
+      ]
+    },
+    {
+      "name": "Jinhsi Resonance Skill DPS Team",
+      "members": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "changli",
+          "name": "Changli"
+        },
+        {
+          "slug": "lingyang",
+          "name": "Lingyang"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi"
+        },
+        {
+          "slug": "youhu",
+          "name": "Youhu"
+        }
+      ]
+    },
+    {
+      "name": "Phrolova Resonance Skill Team",
+      "members": [
+        {
+          "slug": "phrolova",
+          "name": "Phrolova",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    }
+  ],
+  "zani": [
+    {
+      "name": "Spectro Frazzle Premium Team",
+      "members": [
+        {
+          "slug": "zani",
+          "name": "Zani",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "phoebe",
+          "name": "Phoebe",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "shorekeeper",
+          "name": "Shorekeeper",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "mornye",
+          "name": "Mornye"
+        },
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)"
+        },
+        {
+          "slug": "chisa",
+          "name": "Chisa"
+        }
+      ]
+    },
+    {
+      "name": "Free to Play Frazzle Team",
+      "members": [
+        {
+          "slug": "zani",
+          "name": "Zani",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "baizhi",
+          "name": "Baizhi",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "verina",
+          "name": "Verina"
+        },
+        {
+          "slug": "buling",
+          "name": "Buling"
+        }
+      ]
+    },
+    {
+      "name": "Heavy Attack Frazzle Team",
+      "members": [
+        {
+          "slug": "zani",
+          "name": "Zani",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "rover-spectro",
+          "name": "Rover (Spectro)",
+          "role": "Support"
+        }
+      ]
+    }
+  ],
+  "youhu": [
+    {
+      "name": "Youhu Coordinated Attack Team",
+      "members": [
+        {
+          "slug": "jinhsi",
+          "name": "Jinhsi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "youhu",
+          "name": "Youhu",
+          "role": "Support"
+        }
+      ],
+      "alternatives": [
+        {
+          "slug": "xiangli-yao",
+          "name": "Xiangli Yao"
+        },
+        {
+          "slug": "jiyan",
+          "name": "Jiyan"
+        },
+        {
+          "slug": "yinlin",
+          "name": "Yinlin"
+        },
+        {
+          "slug": "mortefi",
+          "name": "Mortefi"
+        }
+      ]
+    },
+    {
+      "name": "Zhezhi Double DPS Team",
+      "members": [
+        {
+          "slug": "zhezhi",
+          "name": "Zhezhi",
+          "role": "Main DPS"
+        },
+        {
+          "slug": "sanhua",
+          "name": "Sanhua",
+          "role": "Sub-DPS"
+        },
+        {
+          "slug": "youhu",
+          "name": "Youhu",
+          "role": "Support"
+        }
+      ]
+    }
+  ]
+}

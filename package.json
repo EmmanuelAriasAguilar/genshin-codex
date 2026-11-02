@@ -1,0 +1,24 @@
+{
+  "name": "genshin-codex",
+  "private": true,
+  "type": "module",
+  "workspaces": ["packages/*", "apps/*"],
+  "engines": {
+    "bun": ">=1.3.0"
+  },
+  "scripts": {
+    "dev": "bun run --filter '@genshin-codex/backend' dev",
+    "backend": "bun run --filter '@genshin-codex/backend' dev",
+    "web": "bun run --filter '@genshin-codex/frontend' dev",
+    "migrate": "bun run --filter '@genshin-codex/backend' migrate",
+    "seed": "bun run --filter '@genshin-codex/backend' seed",
+    "sync": "bun run --filter '@genshin-codex/backend' sync",
+    "build": "bun run --filter '@genshin-codex/frontend' build",
+    "check-types": "bun run --filter '*' check-types",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.0",
+    "typescript": "^5.9.3"
+  }
+}

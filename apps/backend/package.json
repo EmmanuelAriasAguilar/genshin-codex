@@ -1,0 +1,35 @@
+{
+  "name": "@genshin-codex/backend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --watch src/index.ts",
+    "start": "bun run src/index.ts",
+    "migrate": "bun run src/scripts/migrate.ts",
+    "seed": "bun run src/scripts/seed.ts",
+    "generate-builds": "bun run src/scripts/generate-builds.ts",
+    "curate": "bun run src/scripts/curate.ts",
+    "import-gg": "bun run src/scripts/import-genshingg.ts",
+    "kqm-links": "bun run src/scripts/kqm-links.ts",
+    "import-helper": "bun run src/scripts/import-helper.ts",
+    "sync": "bun run src/worker/sync.ts",
+    "ww-sync": "bun run src/worker/ww-sync.ts",
+    "test": "bun test",
+    "check-types": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@genshin-codex/domain": "workspace:*",
+    "@effect/platform": "^0.97.1",
+    "@effect/platform-bun": "^0.91.2",
+    "@effect/sql": "^0.52.1",
+    "@effect/sql-pg": "^0.53.0",
+    "@effect/experimental": "^0.61.0",
+    "effect": "^3.22.1",
+    "genshin-db": "^5.2.14"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.0",
+    "typescript": "^5.9.3"
+  }
+}

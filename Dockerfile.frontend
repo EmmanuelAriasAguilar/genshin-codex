@@ -1,0 +1,26 @@
+# Frontend TanStack Start: build SSR + cliente, luego server.ts (SSR + proxy /api).
+# Imagen glibc (no slim/alpine) para que vite/rollup/esbuild compilen sin problemas de musl.
+FROM oven/bun:1 AS build
+WORKDIR /app
+
+COPY package.json bun.lock tsconfig.base.json ./
+COPY packages/domain/package.json ./packages/domain/package.json
+COPY apps/frontend/package.json ./apps/frontend/package.json
+COPY apps/backend/package.json ./apps/backend/package.json
+RUN bun install --frozen-lockfile
+
+COPY packages/domain ./packages/domain
+COPY apps/frontend ./apps/frontend
+
+WORKDIR /app/apps/frontend
+RUN bun run build
+
+# --- runtime ---
+# Copiamos todo /app del build (node_modules incluido) para que la resolución de módulos
+# del bundle SSR sea idéntica a la del build (donde vite ya resolvió react/etc).
+FROM oven/bun:1-slim AS run
+WORKDIR /app/apps/frontend
+COPY --from=build /app /app
+ENV NODE_ENV=production
+EXPOSE 4900
+CMD ["bun", "run", "server.ts"]

@@ -1,0 +1,242 @@
+@import "tailwindcss";
+/* Fuentes se cargan vía <link> en __root (Tailwind v4 elimina @import de CSS). */
+
+@custom-variant dark (&:is(.dark *));
+
+/* ============================================================================
+   RESONANCE CODEX · "EL TERMINAL ASTRAL"
+   Neón inyectable: --accent-neon (triplete "r g b") lo setea [data-game] o
+   [data-el] → toda la UI se re-tinta. --brand aliasa al neón para que TODA la
+   capa legacy (.card/.chip/.frame…) adopte el acento sin tocarla.
+   ========================================================================== */
+:root {
+  /* LIGHT táctico (por defecto; el toggle añade .dark para el true-dark) */
+  --background: 216 33% 95%;
+  --foreground: 224 40% 10%;
+  --card: 0 0% 100%;
+  --card-foreground: 224 40% 10%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 224 40% 10%;
+  --primary: var(--accent-h);
+  --primary-foreground: 0 0% 100%;
+  --secondary: 216 20% 88%;
+  --secondary-foreground: 224 30% 18%;
+  --muted: 216 20% 90%;
+  --muted-foreground: 220 12% 38%;
+  --accent: 216 20% 88%;
+  --accent-foreground: 224 30% 18%;
+  --destructive: 0 78% 48%;
+  --destructive-foreground: 0 0% 100%;
+  --border: 216 18% 80%;
+  --input: 216 18% 80%;
+  --ring: var(--accent-h);
+  --radius: 2px;
+
+  /* Neón dinámico (default GI cyan). Lo sobrescriben [data-game]/[data-el]. */
+  --accent-neon: 6 150 190;         /* cian más oscuro para contraste en light */
+  --accent-h: 191 93% 39%;
+  --brand: var(--accent-neon);
+  --brand-2: 130 150 200;
+
+  --font-display: "Chakra Petch", ui-sans-serif, system-ui, sans-serif;
+  --font-ui: "Chakra Petch", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+
+.dark {
+  /* TRUE DARK táctico (#090a0f) */
+  --background: 225 30% 4%;
+  --foreground: 210 22% 92%;
+  --card: 224 26% 6%;
+  --card-foreground: 210 22% 92%;
+  --popover: 225 30% 5%;
+  --popover-foreground: 210 22% 92%;
+  --primary-foreground: 225 40% 5%;
+  --secondary: 222 18% 12%;
+  --secondary-foreground: 210 20% 88%;
+  --muted: 222 16% 11%;
+  --muted-foreground: 215 14% 58%;
+  --accent: 222 18% 13%;
+  --accent-foreground: 210 22% 92%;
+  --destructive: 0 90% 62%;
+  --border: 215 22% 15%;
+  --input: 215 22% 16%;
+  --accent-neon: 34 211 238;        /* cian neón brillante */
+  --accent-h: 187 92% 53%;
+}
+
+/* Tema por juego */
+[data-game="gi"] { --accent-neon: 34 211 238;  --accent-h: 187 92% 53%; }
+[data-game="ww"] { --accent-neon: 245 179 1;   --accent-h: 44 99% 48%; }
+
+/* Tema por elemento (sobrescribe al juego en vistas de personaje) */
+[data-el="Pyro"]    { --accent-neon: 255 90 77;   --accent-h: 5 100% 65%; }
+[data-el="Hydro"]   { --accent-neon: 59 163 255;  --accent-h: 212 100% 62%; }
+[data-el="Electro"] { --accent-neon: 176 107 255; --accent-h: 267 100% 71%; }
+[data-el="Cryo"]    { --accent-neon: 111 230 255; --accent-h: 191 100% 72%; }
+[data-el="Anemo"]   { --accent-neon: 70 230 176;  --accent-h: 158 76% 59%; }
+[data-el="Geo"]     { --accent-neon: 255 193 52;  --accent-h: 42 100% 60%; }
+[data-el="Dendro"]  { --accent-neon: 143 217 74;  --accent-h: 88 64% 57%; }
+
+@theme inline {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-popover: hsl(var(--popover));
+  --color-popover-foreground: hsl(var(--popover-foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary));
+  --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-muted: hsl(var(--muted));
+  --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent));
+  --color-accent-foreground: hsl(var(--accent-foreground));
+  --color-destructive: hsl(var(--destructive));
+  --color-destructive-foreground: hsl(var(--destructive-foreground));
+  --color-border: hsl(var(--border));
+  --color-input: hsl(var(--input));
+  --color-ring: hsl(var(--ring));
+  --color-neon: rgb(var(--accent-neon));
+  --radius-lg: var(--radius);
+  --radius-md: var(--radius);
+  --radius-sm: 1px;
+  --font-sans: var(--font-display);
+  --font-mono: var(--font-mono);
+}
+
+* { border-color: hsl(var(--border)); }
+
+html, body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+  font-family: var(--font-ui);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Cuadrícula táctica */
+.tactical-grid {
+  background-image:
+    linear-gradient(to right, rgb(255 255 255 / 0.025) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(255 255 255 / 0.025) 1px, transparent 1px);
+  background-size: 40px 40px;
+  mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, #000 40%, transparent 100%);
+}
+
+/* Resplandor neón (glow, NO drop shadow) */
+.tech-glow { box-shadow: 0 0 0 1px rgb(var(--accent-neon) / 0.30), 0 0 20px -6px rgb(var(--accent-neon) / 0.55); }
+.tech-glow-text { text-shadow: 0 0 12px rgb(var(--accent-neon) / 0.6); }
+.tech-border { border-color: rgb(var(--accent-neon) / 0.35) !important; }
+.text-neon { color: rgb(var(--accent-neon)); }
+
+/* Animaciones */
+@keyframes scanline { 0% { transform: translateY(-100%); } 100% { transform: translateY(420%); } }
+@keyframes flicker { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+@keyframes pulseNeon { 0%,100% { box-shadow: 0 0 6px rgb(var(--accent-neon)); } 50% { box-shadow: 0 0 14px rgb(var(--accent-neon)); } }
+@keyframes sweep { 0% { left: -30%; } 100% { left: 130%; } }
+.animate-scanline { animation: scanline 1.4s cubic-bezier(.4,0,.2,1) infinite; }
+.animate-flicker { animation: flicker 1.1s steps(2) infinite; }
+main { animation: fadeUp 0.3s ease both; }
+.card, .stat-tile { animation: fadeUp 0.4s ease both; }
+/* Reveal escalonado dentro de un grid/sección */
+main section:nth-child(1) { animation: fadeUp 0.34s ease both; }
+main section:nth-child(2) { animation: fadeUp 0.34s ease .05s both; }
+main section:nth-child(3) { animation: fadeUp 0.34s ease .1s both; }
+main section:nth-child(4) { animation: fadeUp 0.34s ease .15s both; }
+
+/* ---- Tipografía de marca ---- */
+.wordmark { font-family: var(--font-display); font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+.display { font-family: var(--font-display); font-weight: 700; letter-spacing: .02em; }
+.text-brand { color: rgb(var(--accent-neon)); text-shadow: 0 0 14px rgb(var(--accent-neon) / 0.55); }
+
+/* ---- Colores por elemento (texto) ---- */
+.el-Pyro { color: #ff5a4d; } .el-Hydro { color: #3ba3ff; } .el-Electro { color: #b06bff; }
+.el-Cryo { color: #6fe6ff; } .el-Anemo { color: #46e6b0; } .el-Geo { color: #ffc134; }
+.el-Dendro { color: #8fd94a; }
+
+/* ---- Card (sharp glass + tinte neón) ---- */
+.card {
+  position: relative; border: 1px solid hsl(var(--border));
+  background: color-mix(in oklab, hsl(var(--card)) 78%, transparent);
+  border-radius: var(--radius); backdrop-filter: blur(6px);
+  transition: border-color .18s ease, background-color .18s ease, transform .16s ease, box-shadow .2s ease;
+}
+a.card, button.card { display: block; text-align: left; }
+.card:hover { border-color: rgb(var(--accent-neon) / 0.5); }
+a.card:hover, button.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 0 1px rgb(var(--accent-neon) / 0.35), 0 10px 30px -14px rgb(var(--accent-neon) / 0.5);
+}
+.card[style*="--el"] { border-color: color-mix(in oklab, rgb(var(--el)) 26%, hsl(var(--border))); }
+.card[style*="--el"]:hover { border-color: rgb(var(--el) / 0.6); box-shadow: 0 0 0 1px rgb(var(--el) / 0.4), 0 12px 34px -14px rgb(var(--el) / 0.55); }
+
+/* ---- Chip / Badge (sharp) ---- */
+.chip, .badge {
+  display: inline-flex; align-items: center; gap: .3rem; border-radius: 2px;
+  padding: .12rem .5rem; font-family: var(--font-mono); font-size: .66rem; font-weight: 500;
+  letter-spacing: .04em; text-transform: uppercase;
+  border: 1px solid hsl(var(--border)); background: color-mix(in oklab, hsl(var(--muted)) 55%, transparent);
+  color: hsl(var(--muted-foreground)); white-space: nowrap;
+}
+.badge-accent { border-color: rgb(var(--accent-neon) / 0.45); background: rgb(var(--accent-neon) / 0.12); color: rgb(var(--accent-neon)); }
+
+/* ---- Panel ---- */
+.panel { border: 1px solid hsl(var(--border)); background: color-mix(in oklab, hsl(var(--card)) 55%, transparent); border-radius: var(--radius); backdrop-filter: blur(6px); }
+
+/* ---- Stat tile ---- */
+.stat-tile {
+  position: relative; overflow: hidden; border: 1px solid hsl(var(--border)); border-radius: var(--radius);
+  background:
+    radial-gradient(22rem 13rem at 100% 0%, rgb(var(--el, var(--accent-neon)) / 0.16), transparent 70%),
+    color-mix(in oklab, hsl(var(--card)) 78%, transparent);
+  transition: transform .16s ease, box-shadow .2s ease, border-color .18s ease;
+}
+a:hover > .stat-tile, a.stat-tile:hover { transform: translateY(-2px); border-color: rgb(var(--el, var(--accent-neon)) / 0.55); box-shadow: 0 0 0 1px rgb(var(--el, var(--accent-neon)) / 0.35), 0 12px 30px -16px rgb(var(--el, var(--accent-neon)) / 0.5); }
+.stat-value { font-family: var(--font-mono); font-weight: 700; }
+
+/* ---- Marco de rareza (sharp) ---- */
+.frame { position: relative; display: inline-grid; place-items: center; border-radius: 3px; padding: 2px; isolation: isolate; }
+.frame > * { border-radius: 2px; }
+.frame-5 { background: linear-gradient(160deg, #ffd884 0%, #d79433 48%, #7a5015 100%); box-shadow: 0 0 12px -3px rgb(255 200 90 / .5); }
+.frame-4 { background: linear-gradient(160deg, #d7b4ff 0%, #8a58d8 50%, #4d2d7a 100%); box-shadow: 0 0 12px -4px rgb(168 110 255 / .45); }
+.frame-3 { background: linear-gradient(160deg, #9ad6ff 0%, #4785bd 55%, #2a5273 100%); }
+.frame-round, .frame-round > * { border-radius: 9999px; }
+
+/* ---- Estrellas ---- */
+.stars { color: #f2b545; font-size: .7rem; letter-spacing: .03em; }
+.stars-4 { color: #a56ef5; }
+
+/* ---- Campos ---- */
+.field {
+  border-radius: 2px; border: 1px solid hsl(var(--input));
+  background: color-mix(in oklab, hsl(var(--muted)) 45%, transparent); color: hsl(var(--foreground));
+  padding: .42rem .7rem; font-family: var(--font-mono); font-size: .78rem; outline: none;
+  transition: border-color .15s ease, box-shadow .15s ease;
+}
+.field:focus { border-color: rgb(var(--accent-neon) / 0.6); box-shadow: 0 0 0 3px rgb(var(--accent-neon) / 0.15); }
+
+/* ---- Título de sección ---- */
+.section-title { display: flex; align-items: center; gap: .55rem; font-family: var(--font-mono); font-size: .95rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+.section-title::before { content: ""; width: 3px; height: 1em; background: rgb(var(--accent-neon)); box-shadow: 0 0 10px rgb(var(--accent-neon) / .8); }
+
+/* ---- Nav (riel táctico) ---- */
+.nav-link { position: relative; display: flex; align-items: center; gap: .7rem; border-radius: 2px; padding: .5rem .7rem; font-size: .85rem; color: hsl(var(--muted-foreground)); transition: color .15s ease, background-color .15s ease; }
+.nav-link:hover { color: hsl(var(--foreground)); background: color-mix(in oklab, hsl(var(--muted)) 55%, transparent); }
+.nav-link-active { color: rgb(var(--accent-neon)); background: rgb(var(--accent-neon) / 0.10); }
+.nav-link-active::before { content: ""; position: absolute; left: -2px; top: 50%; transform: translateY(-50%); width: 3px; height: 62%; background: rgb(var(--accent-neon)); animation: pulseNeon 2.2s ease-in-out infinite; }
+
+/* ---- Logo mark / game switch ---- */
+.brand-mark { display: grid; place-items: center; border-radius: 3px; font-family: var(--font-mono); font-weight: 700; color: rgb(var(--accent-neon)); border: 1px solid rgb(var(--accent-neon) / 0.4); background: rgb(var(--accent-neon) / 0.08); box-shadow: 0 0 16px -6px rgb(var(--accent-neon) / .7); }
+.game-switch { display: flex; padding: 2px; border-radius: 2px; border: 1px solid hsl(var(--border)); background: color-mix(in oklab, hsl(var(--card)) 55%, transparent); }
+.game-seg { flex: 1; border-radius: 1px; padding: .3rem .5rem; text-align: center; font-family: var(--font-mono); font-size: .68rem; font-weight: 600; color: hsl(var(--muted-foreground)); transition: all .15s ease; }
+.game-seg-on { color: rgb(var(--accent-neon)); background: rgb(var(--accent-neon) / 0.12); box-shadow: inset 0 0 0 1px rgb(var(--accent-neon) / 0.4); }
+
+/* ---- Imágenes ---- */
+img { transition: transform .18s ease, opacity .2s ease; }
+a.card:hover img, button.card:hover img { transform: scale(1.05); }
+
+/* ---- Accesibilidad ---- */
+@media (prefers-reduced-motion: reduce) { *, main, .card, .animate-scanline, .animate-flicker { animation: none !important; transition: none !important; } }
